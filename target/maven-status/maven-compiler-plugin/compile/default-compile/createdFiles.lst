@@ -1,0 +1,5 @@
+com\paf\springboot\PaymentApplication.class
+com\paf\springboot\model\Payment.class
+com\paf\springboot\repository\PaymentRepository.class
+com\paf\springboot\dao\PaymentDAO.class
+com\paf\springboot\controller\PaymentController.class
